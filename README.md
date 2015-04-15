@@ -5,9 +5,9 @@ Review and homework of 1st class, 3w3p
 - ice break
 - html, css, and js
 - html tags
--- block
--- inline
--- inlineblock
+  - block
+  - inline
+  - inlineblock
 - practice, write html structure of a page screenshot
 
 ###Homework
