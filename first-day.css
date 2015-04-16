@@ -1,0 +1,72 @@
+body{
+	margin: 0;
+}
+
+.nav-button{
+  width: 60px;
+  height: 30px;
+  display: inline-block;
+  background-color: aquamarine;
+}
+
+.online,
+.mission,
+.students,
+.prospective,
+.partners,
+.progress{
+  height: 300px;
+  background-color: cadetblue;
+}
+
+.mission{
+	background-color: white;
+}
+
+.students{
+	background-color: darkseagreen;
+}
+
+.prospective{
+	background-color: navajowhite;
+}
+
+.partners{
+	background-color: cornflowerblue;
+}
+
+.progress{
+	background-color: white;
+}
+
+footer{
+	height: 30px;
+	background-color: grey;
+}
+
+.forty{
+	display: inline-block;
+	width: 39%;
+}
+
+.sixty{
+	display: inline-block;
+	width: 59%;
+}
+
+.thirty{
+	display: inline-block;
+	width: 29%;
+}
+
+.dots-column{
+  display: inline-block;
+  width: 5px;
+}
+
+.dot{
+  height: 5px;
+  width: 5px;
+  background-color: white;
+  margin: 1px 0;
+} 
