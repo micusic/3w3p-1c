@@ -9,6 +9,10 @@ body{
   background-color: aquamarine;
 }
 
+.nav-buttons{
+  display: inline-block;
+}
+
 .online,
 .mission,
 .students,
