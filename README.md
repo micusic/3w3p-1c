@@ -11,4 +11,5 @@ Review and homework of 1st class, 3w3p
 - practice, write html structure of a page screenshot
 
 ###Homework
-- write html structure of 'first-day.png'  --> first-day.html
+- write html structure of 'first-day.png'  --> index.html, gh-pages branch
+- http://micus.science/3w3p-1c/
