@@ -122,8 +122,9 @@ span {
 .donate{
     width: 115px;
     height: 25px;
-    color: black;
+    color: grey;
     font-weight: bold;
+    border-color: grey;
 }
 
 .no-border{
