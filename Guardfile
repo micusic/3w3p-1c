@@ -3,8 +3,7 @@
 
 guard 'livereload' do
   watch('index.html')
-  watch(%r{stylesheets/.+\.(css)})
-  watch(%r{scripts/.+\.(js)})
+  watch('first-day.css')
 end
 
 guard :compass
