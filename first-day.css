@@ -179,13 +179,18 @@ p{
 .forty {
     display: inline-block;
     width: 39%;
-    /*padding: 10px;*/
 }
 
 .sixty {
     display: inline-block;
     width: 59%;
-    /*padding: 30px;*/
+}
+
+.align-left{
+    width: 500px;
+    height: 400px;
+    padding-left: 19px;
+    text-align: left;
 }
 
 .thirty {
